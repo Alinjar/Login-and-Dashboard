@@ -1,0 +1,13 @@
+import React from 'react'
+import Sidebar from './Sidebar';
+import OtherSideBar from './OtherSideBar';
+function FinalPage2() {
+  return (
+    <div class="flex flex-row bg-[#F5F5F5]">
+    <Sidebar/>
+    <OtherSideBar/>
+  </div>
+  )
+}
+
+export default FinalPage2
