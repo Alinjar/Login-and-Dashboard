@@ -2,7 +2,7 @@ import React from 'react'
 
 function Stat() {
   return (
-    <div class="flex mt-1 ml-8 gap-7">
+    <div class="flex mt-1 ml-5 gap-7">
         <div class="flex flex-row grow-0 bg-[#DDEFE0] p-6 gap-8 mr-6 rounded-3xl " style={{width:'221.053px',height:'120px'}}>
     <div class="mt-6">
       <div class="text-xs font-Lato ">Total Revenues</div>

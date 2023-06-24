@@ -40,7 +40,7 @@ function UpperNav() {
       <div class="flex items-center"> 
         <button type="button" class="flex mr-3 text-sm bg-gray-800 rounded-full md:mr-0 focus:ring-4 focus:ring-gray-300 dark:focus:ring-gray-600" id="user-menu-button" aria-expanded="false" data-dropdown-toggle="user-dropdown" data-dropdown-placement="bottom">
           <span class="sr-only"></span>
-          <img class="w-8 h-8 rounded-full" src="/Users/alinjar/Desktop/listed-ui/public/logo512.png" alt="user photo"/>
+          <img class="w-8 h-8 rounded-full" src="public/adore des1.png" alt="user photo"/>
         </button>
       </div>
     </div>

@@ -2,8 +2,8 @@ import React from 'react'
 
 function Sidebar() {
   return (
-    <div class="h-screen px-6 py-5">
-    <aside class="rounded-2xl flex flex-col w-48 px-9 py-8 min-h-full overflow-y-auto  rtl:border-r-0 rtl:border-l bg-gray-900 border-gray-700">
+    <div class="h-screen px-6 py-7">
+    <aside class="rounded-2xl flex flex-col w-54 px-9 py-8 min-h-full overflow-y-auto  rtl:border-r-0 rtl:border-l bg-gray-900 border-gray-700">
    <span class="font-Montserrat font-bold text-white text-3xl">Board.</span>
 
     <div class="flex flex-col justify-between flex-1 mt-6">

@@ -6,7 +6,7 @@ import RoundChart from './RoundChart'
 import Schedule from './Schedule'
 function OtherSideBar() {
   return (
-    <div class="flex flex-col ">
+    <div class="flex flex-col ml-5">
       <UpperNav/>
       <Stat/>
       <div >
