@@ -38,7 +38,7 @@ export default function RoundChart() {
   };
 
   return (
-    <div className=" flex flex-col ml-5 mt-11 bg-white rounded-2xl p-4" style={{ width: '500px', height: '200px' }}>
+    <div className=" flex flex-col ml-5 mt-10 bg-white rounded-2xl p-4" style={{ width: '500px', height: '200px' }}>
         <div class="flex flex-row justify-between">
         <h1 className=" font-extrabold 
         font-Montserrat text-left ml-4 ">Top Products</h1>

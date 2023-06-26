@@ -19,7 +19,7 @@ function Stat() {
   <div class="flex flex-row shrink-0 grow-0 bg-[#F4ECDD] p-6 gap-8 mr-6 rounded-3xl "  style={{width:'221.053px',height:'120px'}}>
     <div class="w-[90%] mt-3">
       <div class="text-xs font-Lato ">Total Transactions</div>
-      <div class="text-4xl" style={{ fontSize: "24px", fontWeight: 700 }}>1520</div>
+      <div class="text-4xl" style={{ fontSize: "24px", fontWeight: 700 }}>1,520</div>
     </div>
     <div class="pl-14">
     <svg class="w-5 h-5" viewBox="0 0 20 24" fill="none" xmlns="http://www.w3.org/2000/svg">

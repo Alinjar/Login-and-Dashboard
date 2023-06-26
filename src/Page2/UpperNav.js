@@ -2,7 +2,7 @@ import React from 'react'
 
 function UpperNav() {
   return (
-    <div class="mt-3">
+    <div class="mt-3 mr-5">
 
 <nav class="border-gray-200 dark:bg-gray-900">
   <div class="max-w-screen-xl flex items-center justify-between mx-auto p-4">

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Schedule() {
   return (
-    <div className="flex flex-col justify-evenly ml-11 mt-11 bg-white rounded-2xl p-4" style={{ width: '500px', height: '200px' }}>
+    <div className="flex flex-col justify-evenly ml-11 mt-10 bg-white rounded-2xl p-4" style={{ width: '500px', height: '200px' }}>
         <div class="flex flex-row justify-between">
         <h1 class="ml-3 mb-1 font-Montserrat font-extrabold">Today's Schedule</h1>
         <a href="#" class="text-sm mr-2 font-Montserrat text-gray-500 no-underline hover:underline">See All</a>

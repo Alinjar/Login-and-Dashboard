@@ -81,11 +81,18 @@ export default function ChartCard() {
        
     }
   return (
-    <div class="mt-6 ml-4 mb-6" style={{ height: '200px', width: '1050px' }}>
+    /*<div class="mt-6 ml-4 mb-6" style={{ height: '200px', width: '1050px' }}>
         
         
         <Line data={data1} options={options}></Line>
         
+    </div>*/
+    <div class="bg-white 
+    mt-10 ml-5 rounded-2xl  p-6 w-1050 h-fit">
+    <div class="h-full w-full">
+        <Line data={data1} options={options}></Line>
     </div>
+</div>
+
   )
 }
